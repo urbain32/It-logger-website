@@ -1,0 +1,66 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "CPU has been replaced in work station 008",
+      "attention": true,
+      "tech": "Urbain  Quentin",
+      "date": "2022-09-13T14:00:56.064Z"
+    },
+    {
+      "id": 2,
+      "message": "card fixed on work station 0010",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2022-08-31T13:21:46.393Z"
+    },
+    {
+      "id": 4,
+      "message": "Computer has been replaced in work station 078",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2022-08-31T13:29:23.025Z"
+    },
+    {
+      "message": "CPU has not been replaced in work station 0090",
+      "attention": true,
+      "tech": "KAMWENUBUSA URBAIN",
+      "date": "2022-09-01T09:24:57.892Z",
+      "id": 5
+    },
+    {
+      "message": "comp ifise ikibazo",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2022-09-01T12:09:00.472Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "KAMWENUBUSA",
+      "lastName": "URBAIN",
+      "id": 6
+    },
+    {
+      "firstName": "Urbain",
+      "lastName": "Quentin",
+      "id": 7
+    }
+  ]
+}
